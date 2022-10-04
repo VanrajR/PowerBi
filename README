@@ -1,0 +1,7 @@
+Power Bi Challenge – Vanraj Rajshakha 
+
+Errors:
+Usually would rectify the errors in the source system, there were about 500 errors with the data so for the sake of show casing the dashboard with error free data I have just removed the error lines in Power Query. 
+
+Data Layout:
+Usually this data would be laid out in separate fact & dimension data tables rather then one big collective dataset in order to improve performance but can still use this data as is for the purpose of this task.
